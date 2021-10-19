@@ -1,6 +1,7 @@
-name = input(prompt="What is your name?")
-age = int(input(prompt="What is your age?"))
-String c = ""
+name = input("What is your name?")
+age = int(input("What is your age?"))
+c = ""
+
 if(age<3):
 	c = "You are a toddler!"
 elif(age<10):
@@ -15,3 +16,4 @@ else:
 	c = "You are a senior citizen!"
 
 print("You're name is " + name + "." + c)
+
