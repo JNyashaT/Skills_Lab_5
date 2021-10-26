@@ -1,4 +1,5 @@
 DISCLAIMER
+
 The following repository is a student-created project
 made with the intentions of learning how to use
 GitHub as well as Git and its commands.
